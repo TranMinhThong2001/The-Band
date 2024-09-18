@@ -1,0 +1,70 @@
+@media (max-width: 63.9375em) {
+  .nav-list .subnav a {
+    padding: 5px 12px;
+  }
+  .btn {
+    padding: 15px 16px;
+  }
+  .form-control {
+    padding: 15px;
+    font-size: 16px;
+  }
+  .contact-info {
+    line-height: 2;
+  }
+  .socials-list {
+    font-size: 48px;
+  }
+  #footer .socials-list a {
+    margin: 0 8px;
+  }
+  #footer .copy-right a {
+    padding: 14px 0;
+    display: inline-block;
+  }
+}
+@media (max-width: 46.1875em) {
+  .s-col-full {
+    width: 100%;
+  }
+  #header {
+    overflow: hidden;
+  }
+  #header .nav-menu-btn {
+    display: block;
+  }
+  #header .search-btn {
+    display: none;
+  }
+  .nav-list {
+    display: block;
+  }
+  .nav-list > li {
+    display: block;
+  }
+  .nav-list li a {
+    padding: 1px 24px;
+  }
+  .nav-list > li:first-child {
+    display: inline-block;
+  }
+  .nav-list .subnav {
+    position: initial;
+    background-color: #333;
+  }
+  .nav-list .subnav a {
+    color: #fff;
+    padding: 5px 40px;
+  }
+  #slider .mySlider .text-content h2 {
+    font-size: 24px;
+  }
+  #slider .mySlider .text-content p {
+    font-size: 8px;
+  }
+  #modal .modal-body {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
